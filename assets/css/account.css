@@ -29,7 +29,7 @@
     }
 
     .welcome-section {
-      background-color: #111;
+      background-color: #c7d5f1;
       color: #fff;
       text-align: center;
     }
@@ -85,7 +85,7 @@
       padding: 12px;
       border: none;
       border-radius: 6px;
-      background-color: #000;
+      background-color: #4d4d4d;
       color: white;
       font-weight: 400;
       cursor: pointer;
@@ -102,7 +102,7 @@
     }
 
     .logo img {
-      max-width: 120px;
+      max-width: 220px;
     }
 
     .welcome-section h1 {
@@ -112,6 +112,6 @@
     }
 
     .welcome-section p {
-      color: #cecece;
+      color: #4d4d4d;
       font-size: 16px;
     }
