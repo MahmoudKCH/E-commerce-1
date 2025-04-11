@@ -6,6 +6,7 @@ if (!est_connecte()) {
     exit();
 }
 
+
 // Ajout au panier
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['produit_id'])) {
     $produit_id = (int)$_POST['produit_id'];

@@ -3,21 +3,7 @@
 <html lang="en">
     <head>
         <link href="assets/css/homeStyle.css" rel="stylesheet">
-        <script>
-            document.addEventListener('DOMContentLoaded', () => {
-                document.addEventListener('scroll', () => {
-                    let navBar = document.querySelector('nav');
-                    if (window.scrollY > 0) {
-                        navBar.style.background = 'white';
-                        navBar.style.boxShadow = '0 5px 20px rgba(190, 190, 190, 0.15)'
-                    }
-                    else {
-                        navBar.style.background = 'transparent';
-                        navBar.style.boxShadow = 'none'
-                    }
-                })
-            })
-        </script>
+        
     </head>
     <body>
         <nav>
@@ -41,7 +27,7 @@
                         </li>
                     </ul>
                     <button class="blue-button">
-                        Shop Now
+                        <a href="shp-now.php">Account</a>
                     </button>
                 </div>
             </div>
