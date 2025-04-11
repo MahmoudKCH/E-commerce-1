@@ -207,7 +207,7 @@
     </body>
     <footer>
         <div id="footer-top">
-            <img src="images/eLife.png" alt="eLife Logo" width="220px" height="110px">
+            <img src="images/AppLOGO1.png" width="200px" height="190px">
             <div id="footer-socials-wrapper">
                 <div class="footer-social">
                     <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
