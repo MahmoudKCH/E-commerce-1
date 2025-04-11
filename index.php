@@ -56,7 +56,6 @@
             </div>
         </div>
 
-        <!-- OUR COLLECTION/ TYPES OF PRODUCTS SELLING -->
         <div id="collection-container">
             <h1>Our Collection</h1>
             <div id="collection-items-wrapper">
@@ -208,7 +207,7 @@
     </body>
     <footer>
         <div id="footer-top">
-            <img src="images\AppLOGO1.png" alt="SHOPini Logo" width="220px" height="190px">
+            <img src="images/eLife.png" alt="eLife Logo" width="220px" height="110px">
             <div id="footer-socials-wrapper">
                 <div class="footer-social">
                     <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
@@ -233,7 +232,7 @@
         <div id="footer-bottom">
             <ul>
                 <li>
-                    <a href="index.php">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
                     <a href="#">Products</a>
@@ -246,7 +245,7 @@
                 </li>
             </ul>
             <p>
-                Copyright © 2024 SHOPini. All rights reserved.
+                Copyright © 2024 eLife. All rights reserved.
             </p>
         </div>
     </footer>
