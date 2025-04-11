@@ -17,11 +17,11 @@ button {
 /* NAVIGATION BAR */
 
 nav {
-    background-color: transparent;
+    opacity: 0.9;
+    background-color: rgb(214, 232, 246);
     position: fixed;
-    width: 100%;
-    z-index: 1000;
-    transition: 0.3s ease-in-out
+    width: 100%; 
+
 }
 
 #navbar {
