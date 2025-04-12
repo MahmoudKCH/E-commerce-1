@@ -210,7 +210,7 @@
                 </div>
             <div id="navbar">
                 <div id="navbar-logo">
-                    <img src="images\AppLOGO1.png" width="110" height="90">
+                    <img src="images\AppLOGO2.png" width="110" height="90">
                 </div>
                 <div id="navbar-links">
                     <ul>
@@ -1576,7 +1576,7 @@
     </body>
     <footer>
         <div id="footer-top">
-        <img src="images/AppLOGO1.png" width="200px" height="190px">
+        <img src="images/AppLOGO2.png" width="200px" height="190px">
             <div id="footer-socials-wrapper">
                 <div class="footer-social">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">

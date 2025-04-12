@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
 }
 
 button {
@@ -16,7 +16,7 @@ button {
 
 nav {
     opacity: 0.9;
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
     position: fixed;
     width: 100%;
 }
@@ -56,11 +56,11 @@ nav {
 }
 
 #navbar-links ul > li > a:hover {
-    color: rgb(65, 105, 255);
+    color: #1f618d;
 }
 
 .blue-button {
-    background-color: #3b71dc;
+    background-color: #1f618d;
     color: white;
     border: none;
     font-size: 16px;
@@ -70,7 +70,7 @@ nav {
 }
 
 .blue-button:hover {
-    background-color: rgb(102, 136, 240);
+    background-color: #3ba0b4;
 }
 
 #navbar-links .blue-button {
@@ -83,7 +83,7 @@ nav {
 /* TOP SECTION */
 
 #home-top-container {
-    background: #edf2fb;
+    background: #dee1e0;
     height: 80vh;
     padding: 20px;
     padding-top: 150px;
@@ -131,7 +131,7 @@ nav {
 /* OUR COLLECTION */
 
 #collection-container {
-    background-color: #c7d5f1;
+    background-color: #e8c147;
     display: flex;
     flex-direction: column;
     place-items: center;
@@ -173,7 +173,7 @@ nav {
 }
 
 .collection-icon:hover {
-    background-color: #3361bd;
+    background-color: #1f618d;
     color: white;
 }
 
@@ -226,7 +226,7 @@ ul.product-section-items-wrapper {
 }
 
 .product-image {
-    background-color: rgb(231, 238, 252);
+    background-color: #dee1e0;
     height: 210px;
     display: flex;
     justify-content: center;
@@ -260,7 +260,7 @@ ul.product-section-items-wrapper {
 
 .product-purchase .product-price {
     font-size: 18px; 
-    color: rgb(65, 105, 225); 
+    color: #1f618d; 
     font-weight: 500;
 }
 
@@ -290,7 +290,7 @@ button.add-to-cart {
 }
 
 .promo-image {
-    background-color: #c7d5f1;
+    background-color: #e8c147;
     display: flex;
     justify-content: center;
     place-items: center;
@@ -308,7 +308,7 @@ button.add-to-cart {
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    background-color: rgb(65, 105, 225);
+    background-color: #1f618d;
 }
 
 .promo-content h1 {
@@ -337,7 +337,7 @@ button.add-to-cart {
 .promo-content button.white-button {
     padding: 14px 40px;
     background-color: white;
-    color:rgb(65, 105, 255);
+    color: #1f618d;
     font-size: 17px;
     font-weight: 600;
     -webkit-font-smoothing: antialiased;
@@ -348,7 +348,7 @@ button.add-to-cart {
 
 .promo-content button.white-button:hover {
     color: white;
-    background-color: rgb(15, 46, 138);
+    background-color: #3ba0b4;
 }
 
 /* END OF HOME PAGE */
@@ -356,7 +356,7 @@ button.add-to-cart {
 /* FOOTER */
 
 footer {
-    background-color: #d9e5f4;
+    background-color: #dee1e0;
     text-align: center;
     padding: 30px;
     color: rgb(64, 64, 64);
@@ -409,5 +409,5 @@ footer {
 }
 
 #footer-bottom a:hover {
-    color: rgb(65, 105, 225);
+    color: #1f618d;
 }
