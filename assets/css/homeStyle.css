@@ -19,6 +19,7 @@ nav {
     background-color: #ffffff;
     position: fixed;
     width: 100%;
+    
 }
 
 #navbar {
@@ -28,6 +29,7 @@ nav {
     justify-content: space-between;
     place-items: center;
     padding: 12px;
+    
 }
 
 #navbar-links {
