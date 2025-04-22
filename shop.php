@@ -3,7 +3,7 @@ session_start();
 require_once('produit/produit.class.php');
 $produit = new Produit();
 
-// Récupérer les catégories de produits
+// Récupérer les catégories de produits 
 $categories = $produit->selectionnerCategories();
 require_once('user.class.php');
 $us = new user();

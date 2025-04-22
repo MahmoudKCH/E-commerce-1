@@ -506,4 +506,4 @@ $featuredProducts = $produit->listerProduits(); // Produits vedettes
         });
     </script>
 </body>
-</html>
+</html> 

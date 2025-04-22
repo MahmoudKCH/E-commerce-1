@@ -195,12 +195,6 @@ $cartItemCount = $cart->countCartRowsPerUser($x['id']);
         <div class="row mb-4">
             <div class="col-12">
                 <h2 class="fw-bold mb-3">Mon Profil</h2>
-                <nav aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="../index.php">Accueil</a></li>
-                        <li class="breadcrumb-item active">Profil</li>
-                    </ol>
-                </nav>
             </div>
         </div>
         
